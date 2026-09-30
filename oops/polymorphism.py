@@ -16,7 +16,7 @@ acc1.get_designation()   # Employee designation: Accountant
 
 
 
-# duck typinng 
+# duck typing 
 class Employee:
     def get_designation(self):
         print("Employee designation: General Worker")
